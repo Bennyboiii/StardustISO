@@ -175,3 +175,5 @@ pipewire-pulse
 wget
 xdg-user-dirs
 xdg-utils
+weston
+calamares
