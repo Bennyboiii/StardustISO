@@ -10,3 +10,4 @@ mkdir build
 mkarchiso -v -w work -o build .
 run_archiso -u -i build/archlinux-*.iso
 ```
+Watch out for the beep on boot it will destroy your ears and give you a heart attack.
